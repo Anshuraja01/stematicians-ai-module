@@ -1,0 +1,2 @@
+Command parsed: start irrigation
+Irrigation motor started.
