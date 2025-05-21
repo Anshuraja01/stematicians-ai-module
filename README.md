@@ -11,6 +11,14 @@ This system simulates a local AI module designed to:
 - Generate clean, human-readable responses
 - Be easily integrated as a plug-and-play module in larger AI automation systems
 
+ 📌 Demo Video
+
+You can watch the demo video of this project below:
+
+[![Demo Video](./demo-video-thumbnail.png)](./demo-video.mp4)
+
+*Click the image above to play the demo video.*
+
 
 🧠 AI Simulation Approach
 
